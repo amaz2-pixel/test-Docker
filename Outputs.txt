@@ -1,0 +1,28 @@
+Books which their price is more than 10 & oreder decending
+Price: 18.99 , Title: Oh the Places You'll Go!
+Price: 12.99 , Title: The Cat in the Hat
+Price: 11.99 , Title: The Giving Tree
+Price: 11.99 , Title: The Giving Tree
+Price: 10.99 , Title: Where the Wild Things Are
+Price: 10.99 , Title: Madeline
+
+*********************
+Madeline Info
+Id : 15,Price: 10.99
+***********************
+Odd Ids
+Id: 7, Price:7.99
+Id: 11, Price:7.99
+Id: 3, Price:9.99
+Id: 9, Price:9.99
+Id: 15, Price:10.99
+Id: 5, Price:11.99
+Id: 13, Price:11.99
+Id: 1, Price:12.99
+********************
+
+Find Id or Title of Dr.Seuss or Don Freeman 
+Authore : Dr. Seuss , Id: 1 , Title: The Cat in the Hat
+Authore : Dr. Seuss , Id: 2 , Title: Green Eggs and Ham
+Authore : Dr. Seuss , Id: 6 , Title: Oh the Places You'll Go!
+Authore : Don Freeman , Id: 8 , Title: Corduroy

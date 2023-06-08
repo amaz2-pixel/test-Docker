@@ -1,0 +1,15 @@
+Id = 1, Title = "The Cat in the Hat", Author = "Dr. Seuss", Price = 12.99
+Id = 2, Title = "Green Eggs and Ham", Author = "Dr. Seuss", Price = 8.99
+Id = 3, Title = "Curious George", Author = "H.A. Rey", Price = 9.99
+Id = 4, Title = "Where the Wild Things Are", Author = "Maurice Sendak", Price = 10.99
+Id = 5, Title = "The Giving Tree", Author = "Shel Silverstein", Price = 11.99
+Id = 6, Title = "Oh the Places You'll Go!", Author = "Dr. Seuss", Price = 18.99
+Id = 7, Title = "Goodnight Moon", Author = "Margaret Wise Brown", Price = 7.99
+Id = 8, Title = "Corduroy", Author = "Don Freeman", Price = 8.99
+Id = 9, Title = "The Very Hungry Caterpillar", Author = "Eric Carle", Price = 9.99
+Id = 10, Title = "Caps for Sale", Author = "Esphyr Slobodkina", Price = 6.99
+Id = 11, Title = "The Snowy Day", Author = "Ezra Jack Keats", Price = 7.99
+Id = 12, Title = "Charlotte's Web", Author = "E.B. White", Price = 8.99
+Id = 13, Title = "The Giving Tree", Author = "Shel Silverstein", Price = 11.99
+Id = 14, Title = "The Little Engine That Could", Author = "Watty Piper", Price = 8.99
+Id = 15, Title = "Madeline", Author = "Ludwig Bemelmans", Price = 10.99

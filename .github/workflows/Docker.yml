@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./javaScript/Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/clockbox:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/first:latest

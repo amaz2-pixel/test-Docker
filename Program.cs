@@ -75,6 +75,6 @@ class Program
 
         // write to file
         File.WriteAllText(OutputFile,output);
-        Console.ReadLine();
+        //Console.ReadLine();
     }
 }
